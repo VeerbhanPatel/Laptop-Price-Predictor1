@@ -20,3 +20,15 @@ Performance Metric
 R2 Score
 
 Mean Absolute Error
+
+
+Display
+
+<img width="1851" height="926" alt="image" src="https://github.com/user-attachments/assets/3f728158-31a1-4f4f-a077-5c6e83590ffb" />
+
+
+
+Result show
+
+<img width="1768" height="893" alt="image" src="https://github.com/user-attachments/assets/ab3c4aaf-45ff-4d79-938f-5cc6df406a51" />
+
