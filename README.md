@@ -5,4 +5,3 @@ Laptop-Price-Predictor
 • The project includes eight major stages of the ML life cycle to result in structured, practical business value.
 
 
-Business Problem
